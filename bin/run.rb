@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-Sinatra 
+Sinatra
 Hatchie
-Octokit 
+Octokit
 Pry
